@@ -14,5 +14,5 @@ jobs:
         - name: Présenter la machine
           run: |
             whoami
-            uname-a
+            uname -a
             date
