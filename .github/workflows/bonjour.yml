@@ -7,7 +7,7 @@ on:
 jobs:
   bonjour:
     runs-on: ubuntu-latest
-      steps:
+    steps:
         - name: Dire bonjour
           run: echo " Bonjour ISEP Diamniadio ! "
 
